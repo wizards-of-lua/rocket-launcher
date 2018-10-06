@@ -35,7 +35,7 @@ These are the steps to install and run the Claiming Heads on your Minecraft Serv
 #### By Vanilla Command
 Just execute the following Minecraft command:
 ```
-/give @p minecraft:arrow 1 0 {Wand:"rocket-launcher",display:{Name:"Wand of Featherlight Flight",Lore:["Look into the sky and swing this wand"]},ench:[{id:99,lvl:1}]}
+/give @p minecraft:arrow 1 0 {Wand:"rocket-launcher",display:{Name:"Rocket Launcher",Lore:["Look at your target and swing this wand"]},ench:[{id:99,lvl:1}]}
 ```
 #### Or By Spell Pack Command
 ```
