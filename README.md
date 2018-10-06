@@ -22,10 +22,10 @@ These are the steps to install and run the Claiming Heads on your Minecraft Serv
      [Wizards of Lua Modification](https://minecraft.curseforge.com/projects/wizards-of-lua/files) and place it
      into the `mods` directory of your Minecraft server.
      
-3. **Install The Wand of the Featherlight Flight Spell Pack**
+3. **Install The Rocket Launcher Spell Pack**
 
     Download the JAR file containing the latest Version of 
-    [The Wand of the Featherlight Flight Spell Pack](https://minecraft.curseforge.com/projects/rocket-launcher-spell-pack/files) and place it
+    [The Rocket Launcher Spell Pack](https://minecraft.curseforge.com/projects/rocket-launcher-spell-pack/files) and place it
     into the `mods` directory of your Minecraft server.
     
 4. **Restart the Server**
