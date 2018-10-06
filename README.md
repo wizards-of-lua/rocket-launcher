@@ -31,7 +31,7 @@ These are the steps to install and run the Claiming Heads on your Minecraft Serv
 4. **Restart the Server**
 
 ## Playing Instructions
-### How to Get a Magic Wand?
+### How to Get a Rocket Launcher?
 #### By Vanilla Command
 Just execute the following Minecraft command:
 ```
