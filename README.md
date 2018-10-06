@@ -5,8 +5,6 @@ This spell pack is a [Wizards of Lua](http://www.wizards-of-lua.net) add-on that
 The rocket launcher is a special arrow that can can shoot rockets into the direction you are looking at.
 Just look at your target and swing it.
 
-You can give this spell pack a try at our alpha server: ```mc.wizards-of-lua.net:30200```
-
 ## How to Install?
 This spell pack is dependent on [Minecraft Forge](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.12.2.html) 
 and the [Wizards of Lua Modification](https://minecraft.curseforge.com/projects/wizards-of-lua/files), version 2.5.0 or later.
