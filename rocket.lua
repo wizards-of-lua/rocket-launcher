@@ -15,7 +15,7 @@ function pkg.start()
     local item = event.item
     if item and item.nbt and item.nbt.tag and item.nbt.tag.Wand == "rocket-launcher" then
       local p = event.player
-      local start = p.pos + Vec3(0,p.eyeHeight,0) + p.lookVec * (1.4 + p.motion:magnitude()*5)
+      local start = p.pos + Vec3(0,p.eyeHeight,0) + p.lookVec * (math.max(1,p.motion:magnitude())*3)
       spell:execute([[/execute %s ~ ~ ~ lua require('%s').launch(%s,%s)]], p.name, module, toLua(start), toLua(p.lookVec))
       if event.player.gamemode ~= "creative" then
         item.count = item.count - 1
